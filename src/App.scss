@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.app{
+    font-family: Helvetica;
+    display: grid;
+    grid-template-columns: 1.1fr 2.1fr 1.6fr;
+    background: #15202B;
+    color: #ffffff;
+}
+
+.right-pane{
+    background: #15202b;
+}
+
