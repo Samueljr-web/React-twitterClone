@@ -1,7 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-#Note: not responsive vs1.0
+
+# Note: not responsive vs1.0.
+
+live[Twitter Clone](https://www.react-twitterClone.netlify.app).
 ## Available Scripts
 
 In the project directory, you can run:
