@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Note:./ #not responsive vs1.0.
+## Note: 
+Not responsive vs1.0 .
 
-live:[Twitter Clone](https://react-twitterclone.netlify.app)./
+live:  [Twitter Clone](https://react-twitterclone.netlify.app)
 ## Available Scripts
 
 In the project directory, you can run:
