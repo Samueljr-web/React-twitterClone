@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Note: 
 Not responsive vs1.0 .
 
-live:  [Twitter Clone](https://react-twitterclone.netlify.app)
+## Demo live: 
+ [Twitter Clone](https://react-twitterclone.netlify.app)
 ## Available Scripts
 
 In the project directory, you can run:
