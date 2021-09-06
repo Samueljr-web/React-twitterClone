@@ -9,6 +9,7 @@ Not responsive vs1.0 .
  [Twitter Clone](https://react-twitterclone.netlify.app)
 ## IMG
 <img src="https://devsamuel.netlify.app/static/media/twitterClone.5fca723b.png" alt="twitterImg" />
+
 ## Available Scripts
 
 In the project directory, you can run:
